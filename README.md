@@ -1,1 +1,2 @@
 # imgtype
+Find real type.
